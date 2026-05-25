@@ -94,6 +94,8 @@ cd AD340-OfflineNotesApp
    npx create-expo-app@latest <app-name>
 ```
 
+Select Expo version that is the stable or same version as your Expo Go. For this project I selected Expo version 54 instead of the latest version 56.
+
 *NOTE: Make sure that your core Expo is the same or older version than the version in your phone Expo Go. If not downgrade to match your phone.*
 
 To downgrade to Expo version 54
