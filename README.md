@@ -147,7 +147,27 @@ You can then choose one of the following options:
 
 ## Assignment Instruction
 
-![Offline Notes App]()
+### Light Mode
+<img src="https://github.com/Angel43v3r/AD340-OfflineNotesApp/blob/main/offlineNotesApp/assets/images/RemindlyLight00.png" 
+     alt="Offline Notes App Light Mode" 
+     width="300">
+<img src="https://github.com/Angel43v3r/AD340-OfflineNotesApp/blob/main/offlineNotesApp/assets/images/RemindlyLight01.png" 
+     alt="Offline Notes App Light Mode" 
+     width="300">
+<img src="https://github.com/Angel43v3r/AD340-OfflineNotesApp/blob/main/offlineNotesApp/assets/images/RemindlyLight02.png" 
+     alt="Offline Notes App Light Mode" 
+     width="300">
+
+### Dark Mode
+<img src="https://github.com/Angel43v3r/AD340-OfflineNotesApp/blob/main/offlineNotesApp/assets/images/RemindlyDark00.png" 
+     alt="Offline Notes App Dark Mode" 
+     width="300">
+<img src="https://github.com/Angel43v3r/AD340-OfflineNotesApp/blob/main/offlineNotesApp/assets/images/RemindlyDark01.png" 
+     alt="Offline Notes App Dark Mode" 
+     width="300">
+<img src="https://github.com/Angel43v3r/AD340-OfflineNotesApp/blob/main/offlineNotesApp/assets/images/RemindlyDark02.png" 
+     alt="Offline Notes App Dark Mode" 
+     width="300">
 
 ### 🛠️ Starter Code Context
 You are starting with a basic UI that has:
